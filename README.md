@@ -12,7 +12,7 @@
 ## Founder Experience
 
 ### Estate Mind — *Solo Founder*
-> **AI-powered real estate lead generation engine**
+> **[View Repository](https://github.com/mjfay/estatemind) — AI-powered real estate lead generation engine**
 
 - Built an autonomous AI agent that sources, qualifies, and engages real estate leads — **fully automated**
 - Scaled to **$1,000 MRR**
