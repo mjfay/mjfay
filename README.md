@@ -57,5 +57,5 @@
 
 ## Contact
 
-- [LinkedIn]([https://www.linkedin.com/in/michaeljfay](https://www.linkedin.com/in/michael-fay-81446b2b1/))
+- [LinkedIn](https://www.linkedin.com/in/michael-fay-81446b2b1/)
 - [michaeljfay23@gmail.com](mailto:michaeljfay23@gmail.com)
