@@ -1,4 +1,4 @@
-# **Michael Fay | Building Systems that Disrupt Legacy Industries.**
+# **Michael Fay**
 
 ---
 
