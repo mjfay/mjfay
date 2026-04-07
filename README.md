@@ -56,6 +56,24 @@
 
 ---
 
+---
+
+## Product Experiments & Projects
+
+### Bantam Money — *Personal Budgeting Platform*
+> **[View Repository](https://github.com/mjfay/bantam) — Full-stack personal budgeting and financial visualization app**
+
+- **Overview:** Developed a custom budgeting application to track and visualize personal expenses with a focus on data clarity and performance.
+- **Stack:** React · Node.js · SQL · PostgreSQL.
+
+### Wix Shop Plugin — *E-commerce Automation*
+> **[View Repository](https://github.com/mjfay/upsell-two) — Custom shop plugins and conversion experiments**
+
+- **Overview:** Experimented with high-scale retail automation by developing custom plugins for e-commerce platforms to optimize upsell funnels and user retention.
+- **Stack:** JavaScript · Wix Velo API · Next.js.
+
+---
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/michael-fay-81446b2b1/)
