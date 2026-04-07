@@ -4,9 +4,8 @@
 
 ## 🚀 Current Status
 
-- 🎓 **CS & Economics Junior @ Williams College** — studying abroad in **Budapest, Hungary**
-- ⚡ Obsessed with using **Agentic AI** to automate and disrupt the **energy sector**
-- 🛠️ Founding Engineer & Solo Founder — I build, ship, and scale
+- 🎓 **CS & Economics Junior @ Williams College**
+- 🛠️ Founding Engineer & Solo Founder
 
 ---
 
@@ -16,7 +15,7 @@
 > **AI-powered real estate lead generation engine**
 
 - Built an autonomous AI agent that sources, qualifies, and engages real estate leads — **fully automated**
-- Scaled to **$1,000+ MRR** with zero sales team
+- Scaled to **$1,000 MRR**
 - Stack: **Python · OpenAI APIs · Prompt Engineering · Automation Pipelines**
 
 ---
@@ -42,5 +41,5 @@
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/michaeljfay)
-- 📧 [mjf2@williams.edu](mailto:mjf2@williams.edu)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/michaeljfay](https://www.linkedin.com/in/michael-fay-81446b2b1/))
+- 📧 [michaeljfay23@gmail.com](mailto:michaeljfay23@gmail.com)
