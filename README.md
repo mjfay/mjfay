@@ -2,16 +2,16 @@
 
 ---
 
-## 🚀 Current Status
+## Current Status
 
-- 🎓 **CS & Economics Junior @ Williams College**
-- 🛠️ Founding Engineer & Solo Founder
+- **CS & Economics Junior @ Williams College**
+- Founding Engineer & Solo Founder
 
 ---
 
-## 🏗️ Founder Experience
+## Founder Experience
 
-### 🏠 Estate Mind — *Solo Founder*
+### Estate Mind — *Solo Founder*
 > **AI-powered real estate lead generation engine**
 
 - Built an autonomous AI agent that sources, qualifies, and engages real estate leads — **fully automated**
@@ -20,7 +20,7 @@
 
 ---
 
-### 🏥 Yosa, Inc. — *Founding Engineer*
+### Yosa, Inc. — *Founding Engineer*
 > **HIPAA-Compliant Remote Therapeutic Monitoring Platform**
 
 - Architected production AWS infrastructure from the ground up for a regulated healthcare product
@@ -29,7 +29,7 @@
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 | Category       | Technologies                                      |
 |----------------|---------------------------------------------------|
@@ -39,7 +39,23 @@
 
 ---
 
-## 📫 Contact
+## Professional Experience
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/michaeljfay](https://www.linkedin.com/in/michael-fay-81446b2b1/))
-- 📧 [michaeljfay23@gmail.com](mailto:michaeljfay23@gmail.com)
+### Akala, Inc. — *Software Engineer Intern*
+> **Google & Techstars-backed student success platform**
+
+- Engineered core features for a student dashboard using **React and TypeScript**, directly increasing user engagement.
+- Refactored critical front-end components to TypeScript, reducing runtime errors by **25%**.
+
+### Mentis, LLC — *Software Engineer Intern*
+> **AI-driven language learning platform**
+
+- Developed a **Python backend** service integrating OpenAI APIs to power a real-time conversational practice feature.
+- Deployed features for Brown University's B-Lab accelerator.
+
+---
+
+## Contact
+
+- [LinkedIn]([https://www.linkedin.com/in/michaeljfay](https://www.linkedin.com/in/michael-fay-81446b2b1/))
+- [michaeljfay23@gmail.com](mailto:michaeljfay23@gmail.com)
