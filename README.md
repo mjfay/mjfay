@@ -21,6 +21,7 @@
 ---
 
 ### Yosa, Inc. — *Founding Engineer*
+**[yosaapp.com](https://yosaapp.com) — HIPAA-Compliant Remote Therapeutic Monitoring Platform**
 > **HIPAA-Compliant Remote Therapeutic Monitoring Platform**
 
 - Architected production AWS infrastructure from the ground up for a regulated healthcare product
